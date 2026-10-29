@@ -1,0 +1,16 @@
+{
+  "stable_id": "career-ops:42",
+  "application_number": 42,
+  "application_date": "2026-10-28",
+  "timezone": "Asia/Shanghai",
+  "company": "Example AI Company",
+  "role": "Regional Operations Manager",
+  "city": "Shanghai",
+  "job_url": "https://example.com/jobs/42",
+  "jd_archive_url": "https://example.com/archive/42",
+  "resume_version": "resume-regional-ops-v3.pdf",
+  "status": "Applied",
+  "next_action": "Review the role and prepare recruiter outreach",
+  "prep_document_url": "",
+  "sync_status": "verified"
+}

@@ -1,0 +1,31 @@
+# Fictional and anonymized example. Do not copy claims without verification.
+candidate:
+  preferred_name: "Example Candidate"
+  timezone: "Asia/Shanghai"
+  target_roles:
+    - "Regional Operations Manager"
+    - "GTM Manager"
+
+facts:
+  - id: "fact-001"
+    status: "verified"
+    category: "regional_gtm"
+    claim: "Completed market and channel analysis for multiple countries."
+    evidence: "user-confirmed"
+
+  - id: "fact-002"
+    status: "verified"
+    category: "ai_content_operations"
+    claim: "Introduced generative AI into image and video production workflows."
+    evidence: "source-resume"
+
+  - id: "fact-003"
+    status: "narrative-only"
+    category: "creator_growth"
+    claim: "Worked with creator and community growth programs."
+    evidence: "quantitative result not confirmed"
+
+rules:
+  - "Never promote an unverified claim into a resume."
+  - "Every experience bullet must have a descriptive heading."
+  - "Missing application dates must not be inferred."
